@@ -1,84 +1,53 @@
+### `> [ACCESSING TERMINAL... [_]]`
 
-### <span style="color: #00E676;">**> [ACCESSING TERMINAL... [_]]**</span>
-<table>
-  <tr>
-    <td>
-      <img src="assets/fault-guy-tech.webp" width="150" alt="Profile Picture">
-    </td>
-    <td>
-      <div style="color: #4CAF50;">
-        <strong style="color: #00E676;">> [LOADING PROFILE... []]</strong><br>
-        user: <strong style="color: #00E676;">IGNACIO FERRER SANZ</strong><br>
-        role: <strong style="color: #00E676;">SENIOR MOBILE ENGINEER</strong><br>
-        status: <strong style="color: #00E676;">ACTIVE / WASTELAND EXPLORER</strong>
-      </div>
-    </td>
-  </tr>
-</table>
+![Profile Picture](assets/fault-guy-tech.webp)
+
+```console
+> BOOTING ROBCO INDUSTRIES (TM) TERMLINK...
+> VERSION 1.2.1-WASTELAND
+> [KERNEL] LOADING... 100%
+> [USER]   IGNACIO FERRER SANZ
+> [ROLE]   SENIOR MOBILE ENGINEER
+> [STATUS] ACTIVE / WASTELAND EXPLORER
+> [LOC]    SPAIN (EUROPEAN WASTELAND)
+> [##############################] 100%
+```
 
 ---
-<strong style="color: #00E676;">**> [INSERT STATION LOGS... [_]]**</strong>
+**`> [INSERT STATION LOGS... [_]]`**
 
-### <span style="color: #ADFF2F;">**🖥️ STATION LOGS: ABOUT ME**</span>
+### 🖥️ STATION LOGS: ABOUT ME
 
-<span style="color: #4CAF50;">Accomplished <strong style="color: #00E676;">Senior Mobile Engineer</strong> with a dual-class specialization in <strong style="color: #00E676;">Android</strong> and <strong style="color: #00E676;">Flutter</strong>. I thrive in the intersection of mobile craftsmanship and <strong style="color: #00E676;">DevOps</strong> automation. Currently exploring the frontiers of <strong style="color: #00E676;">GenAI</strong> to optimize development survival in the digital wasteland.</span>
+Accomplished **Senior Mobile Engineer** with a dual-class specialization in **Android** and **Flutter**. I thrive in the intersection of mobile craftsmanship and **DevOps** automation. Currently exploring the frontiers of **GenAI** to optimize development survival in the digital wasteland.
 
----
+**`> [INSERT S.P.E.C.I.A.L. ATTRIBUTES... [_]]`**
 
-<strong style="color: #00E676;">**> [INSERT S.P.E.C.I.A.L. ATTRIBUTES... [_]]**</strong>
+### ☢️ S.P.E.C.I.A.L. ATTRIBUTES
 
-### <span style="color: #ADFF2F;">**☢️ S.P.E.C.I.A.L. ATTRIBUTES**</span>
-<div align="left">
-  <img  src="assets/special.webp" width="150" height="75" alt="S.P.E.C.I.A.L. Poster">
-</div>
-<table>
-  <thead>
-    <tr>
-      <th align="left"><span style="color: #ADFF2F;">STAT</span></th>
-      <th align="left"><span style="color: #ADFF2F;">SPECIALIZATION</span></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong style="color: #4CAF50;">[S]</strong></td>
-      <td><strong style="color: #00E676;">SYSTEMS & DEVOPS:</strong> <span style="color: #4CAF50;">[AWS, Ansible, Docker, K8s, Terraform, Jenkins, CI/CD]</span></td>
-    </tr>
-    <tr>
-      <td><strong style="color: #2196F3;">[P]</strong></td>
-      <td><strong style="color: #00E676;">PROGRAMMING:</strong> <span style="color: #4CAF50;">[Android, Flutter, Kotlin, Dart, KMP, CMP, Java, Clean Architecture, MVVM, SOLID, Clean Code]</span></td>
-    </tr>
-    <tr>
-      <td><strong style="color: #FFC107;">[E]</strong></td>
-      <td><strong style="color: #00E676;">EXPERIENCE:</strong> <span style="color: #4CAF50;">7+ Years surviving the dev wasteland across [Capgemini, Hiberus, Sopra Steria, Cuatroochenta and Sportmaniacs]</span></td>
-    </tr>
-    <tr>
-      <td><strong style="color: #E91E63;">[C]</strong></td>
-      <td><strong style="color: #00E676;">COMMS:</strong> <span style="color: #4CAF50;">[Spanish (Native), Valencian (Native), English (Full-Professional)]</span></td>
-    </tr>
-    <tr>
-      <td><strong style="color: #00BCD4;">[I]</strong></td>
-      <td><strong style="color: #00E676;">INTELLIGENCE:</strong> <span style="color: #4CAF50;">[AI & GenAI: Cursor, Copilot, Ollama, ChatGPT, Claude, Qwen, Gemini]</span></td>
-    </tr>
-    <tr>
-      <td><strong style="color: #FF5722;">[A]</strong></td>
-      <td><strong style="color: #00E676;">AGILE:</strong> <span style="color: #4CAF50;">[Agile & Projects: SCRUM, TDD, Design Patterns, Portfolio, Mobile Portability]</span></td>
-    </tr>
-    <tr>
-      <td><strong style="color: #9C27B0;">[L]</strong></td>
-      <td><strong style="color: #00E676;">LICENSES & LEARNING:</strong> <span style="color: #4CAF50;">[AWS Solutions Architect, MSc DevOps, BEng Informatics]</span></td>
-    </tr>
-  </tbody>
-</table>
+![S.P.E.C.I.A.L. Poster](assets/special.webp)
+
+| STAT | SPECIALIZATION |
+| :--- | :--- |
+| **[S]** | **SYSTEMS & DEVOPS:** [AWS, Ansible, Docker, K8s, Terraform, Jenkins, CI/CD] |
+| **[P]** | **PROGRAMMING:** [Android, Flutter, Kotlin, Dart, KMP, CMP, Java, Clean Architecture, MVVM, SOLID, Clean Code] |
+| **[E]** | **EXPERIENCE:** 7+ Years surviving the dev wasteland across [Capgemini, Hiberus, Sopra Steria, Cuatroochenta and Sportmaniacs] |
+| **[C]** | **COMMS:** [Spanish (Native), Valencian (Native), English (Full-Professional)] |
+| **[I]** | **INTELLIGENCE:** [AI & GenAI: Cursor, Copilot, Ollama, ChatGPT, Claude, Qwen, Gemini] |
+| **[A]** | **AGILE:** [Agile & Projects: SCRUM, TDD, Design Patterns, Portfolio, Mobile Portability] |
+| **[L]** | **LICENSES:** [AWS Solutions Architect, MSc DevOps, BEng Informatics] |
+
+**`> [MAIN TECH STACK SUMMARY]`**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
 ---
+**`> [INSERT SIGNAL BROADCAST... [_]]`**
 
-<strong style="color: #00E676;">**> [INSERT SIGNAL BROADCAST... [_]]**</strong>
-
-### <span style="color: #ADFF2F;">**📡 SIGNAL BROADCAST (SOCIALS)**</span>
-<span style="color: #4CAF50;">[<strong style="color: #2196F3;">[linkedIn]</strong>](https://www.linkedin.com/in/ignacio-ferrer-sanz/) | [<strong style="color: #FFC107;">[portfolio]</strong>](https://www.nacchofer31.dev/) | [<strong style="color: #4CAF50;">[email]</strong>](mailto:ignaciofer31@gmail.com)</span>
+### 📡 SIGNAL BROADCAST (SOCIALS)
+[**[linkedIn]**](https://www.linkedin.com/in/ignacio-ferrer-sanz/) | [**[portfolio]**](https://www.nacchofer31.dev/) | [**[email]**](mailto:ignaciofer31@gmail.com)
 
 ---
 
-<strong style="color: #00E676;">**> [INSERT REPOSITORY DISK... [_]]**</strong>
+**`> [INSERT REPOSITORY DISK... [_]]`**
