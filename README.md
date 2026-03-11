@@ -57,9 +57,7 @@ Accomplished **Senior Mobile Engineer** with a dual-class specialization in **An
 
 ### 📻 RADIO SIGNALS DETECTED
 
-```console
-> [SCANNING FREQUENCIES... ████████████████ LOCKED]
-```
+`> [SCANNING FREQUENCIES... ████████████████ LOCKED]`
 
 [**[linkedIn]**](https://www.linkedin.com/in/ignacio-ferrer-sanz/) | [**[portfolio]**](https://www.nacchofer31.dev/) | [**[email]**](mailto:ignaciofer31@gmail.com)
 
