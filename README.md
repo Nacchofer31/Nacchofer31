@@ -1,6 +1,12 @@
 ### `> [ACCESSING TERMINAL... [_]]`
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=500&lines=BOOTING+ROBCO+INDUSTRIES+(TM)+TERMLINK...;LOADING+USER+DATA...;VAULT-TEC+SYSTEMS+ONLINE...;WELCOME+BACK%2C+VAULT+DWELLER.)](https://git.io/typing-svg)
+
 <img src="assets/fault-guy-tech.webp" alt="drawing" width="150"/>
+
+</div>
 
 ```console
 > BOOTING ROBCO INDUSTRIES (TM) TERMLINK...
@@ -13,12 +19,18 @@
 > [##############################] 100%
 ```
 
----
-**`> [INSERT STATION LOGS... [_]]`**
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+<details>
+<summary><b>`> [DECRYPT STATION LOGS... [_]]`</b></summary>
 
 ### 🖥️ STATION LOGS: ABOUT ME
 
 Accomplished **Senior Mobile Engineer** with a dual-class specialization in **Android** and **Flutter**. I thrive in the intersection of mobile craftsmanship and **DevOps** automation. Currently exploring the frontiers of **GenAI** to optimize development survival in the digital wasteland.
+
+</details>
+
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 **`> [INSERT S.P.E.C.I.A.L. ATTRIBUTES... [_]]`**
 
@@ -36,18 +48,24 @@ Accomplished **Senior Mobile Engineer** with a dual-class specialization in **An
 | **[A]** | **AGILE:** [Agile & Projects: SCRUM, TDD, Design Patterns, Portfolio, Mobile Portability] |
 | **[L]** | **LICENSES:** [AWS Solutions Architect, MSc DevOps, BEng Informatics] |
 
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
 **`> [MAIN TECH STACK SUMMARY]`**
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![KMP](https://img.shields.io/badge/KMP-8E75C2?style=for-the-badge&logo=kotlin&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa1c?style=for-the-badge&logo=openai&logoColor=white) ![Copilot](https://img.shields.io/badge/Copilot-8E75C2?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
+**`> [TUNING RADIO SIGNALS... [_]]`**
 
----
-**`> [INSERT SIGNAL BROADCAST... [_]]`**
+### 📻 RADIO SIGNALS DETECTED
 
-### 📡 SIGNAL BROADCAST (SOCIALS)
+```console
+> [SCANNING FREQUENCIES... ████████████████ LOCKED]
+```
+
 [**[linkedIn]**](https://www.linkedin.com/in/ignacio-ferrer-sanz/) | [**[portfolio]**](https://www.nacchofer31.dev/) | [**[email]**](mailto:ignaciofer31@gmail.com)
 
----
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 **`> [INSERT REPOSITORY DISK... [_]]`**
