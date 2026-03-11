@@ -21,14 +21,11 @@
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-<details>
-<summary><b>`> [DECRYPT STATION LOGS... [_]]`</b></summary>
+**`> [INSERT STATION LOGS... [_]]`**
 
 ### 🖥️ STATION LOGS: ABOUT ME
 
 Accomplished **Senior Mobile Engineer** with a dual-class specialization in **Android** and **Flutter**. I thrive in the intersection of mobile craftsmanship and **DevOps** automation. Currently exploring the frontiers of **GenAI** to optimize development survival in the digital wasteland.
-
-</details>
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
